@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="300" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
 <img align="right" alt="Coding" width="352" src="https://simplecoding.dev/assets/devops.gif">
 <img align="right" alt="Coding" width="300" src="https://www.hfsolutions.cl/assets/img/gifs/ilustracion-devops.gif">
+<img align="right" alt="Coding" width="200" src="https://th.bing.com/th?id=OIP.6aiG8217Vy9kEpF5k9ag4QHaJQ&w=220&h=275&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhtawarkhan90&label=Profile%20views&color=0e75b6&style=flat" alt="bakhtawarkhan90" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakhtawarkhan90" alt="bakhtawarkhan90" /></a> </p>
