@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="200" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
 <img align="right" alt="Coding" width="200" src="https://simplecoding.dev/assets/devops.gif">
 
-<img align="right" alt="Coding" width="250" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/cloudd.gif"> <br>
+<img align="right" alt="Coding" width="450" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/cloudd.gif"> <br>
 <img align="right" alt="Coding" width="300" src="https://www.hfsolutions.cl/assets/img/gifs/ilustracion-devops.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhtawarkhan90&label=Profile%20views&color=0e75b6&style=flat" alt="bakhtawarkhan90" /> </p>
 
