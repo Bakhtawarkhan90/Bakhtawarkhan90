@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm BAKHTAWAR KHAN</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
-<img align="right" alt="Coding" width="353" src="https://simplecoding.dev/assets/devops.gif">
+<img align="right" alt="Coding" width="352" src="https://simplecoding.dev/assets/devops.gif">
 <img align="right" alt="Coding" width="300" src="https://www.hfsolutions.cl/assets/img/gifs/ilustracion-devops.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhtawarkhan90&label=Profile%20views&color=0e75b6&style=flat" alt="bakhtawarkhan90" /> </p>
 
