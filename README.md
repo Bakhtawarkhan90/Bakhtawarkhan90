@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif)
 <h1 align="center">Hi 👋, I'm BAKHTAWAR KHAN</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
+<img align="right" alt="Coding" width="300" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
 <img align="right" alt="Coding" width="200" src="https://simplecoding.dev/assets/devops.gif">
 
 <img align="right" alt="Coding" width="100" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/cloudd.gif"> <br>
