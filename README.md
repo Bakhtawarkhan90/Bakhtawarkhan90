@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif)
+![MasterHead](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif)
 <h1 align="center">Hi 👋, I'm BAKHTAWAR KHAN</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
