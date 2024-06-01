@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Github" style="max-width: 100%; display: inline-block; width: 200px; height: auto;" data-target="animated-image.originalImage">
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Github" style="max-width: 100%; display: inline-block; width: 500px; height: auto;" data-target="animated-image.originalImage">
 
 <h1 align="center">Hi 👋, I'm BAKHTAWAR KHAN</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
