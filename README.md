@@ -1,11 +1,3 @@
-To convert the AWS and Bash logos from black to white, you can use white versions of these logos. Here are the updated links for white versions of the AWS and Bash logos:
-
-- **AWS**: `https://raw.githubusercontent.com/DevOps-Library/AWS-Logos/master/Light/AWS-Light.png`
-- **Bash**: `https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_White.svg`
-
-Here's the updated `README.md` with these white logos:
-
-```markdown
 # Hi there 👋
 
 <!--
