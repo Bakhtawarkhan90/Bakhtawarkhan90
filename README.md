@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact
    1. **Did you know?** The **first ever commit** on GitHub was made by GitHub co-founder, Chris Wanstrath, on February 8, 2008. The commit message was `initial commit of rails app`. Since then, millions of 
       developers like us have been committing and pushing code, making GitHub a hub for collaboration and learning. Let's keep the tradition alive!🚀
-  2. 2. You can’t hum if you’re holding your nose.**
+   2.  You can’t hum if you’re holding your nose.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
