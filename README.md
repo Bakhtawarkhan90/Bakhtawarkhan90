@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Github" style="max-width: 100%; width: 500px; height: auto;" />
-  </div>
-  <div>
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="20" />
-    </a>
-  </div>
-</div>
+
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Github" style="max-width: 100%; display: inline-block; width: 500px; height: auto;" />
+    </td>
+    <td align="right">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80" />
+      </a>
+    </td>
+  
+
 
 
 <h1 align="center">Hi 👋, I'm BAKHTAWAR KHAN</h1>
