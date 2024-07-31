@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Github" style="max-width: 100%; display: inline-block; width: 500px; height: auto;" data-target="animated-image.originalImage">
  <td align="right">
  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  style="max-width: 100% /> 
   </a>
 <td>
 <h1 align="center">Hi 👋, I'm BAKHTAWAR KHAN</h1>
