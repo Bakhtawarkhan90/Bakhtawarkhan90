@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     </td>
     <td align="right">
       <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="100" />
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  />
       </a>
     </td>
   </tr>
