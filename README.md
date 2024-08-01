@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table width="100%" border="0">
+<table width="80%" border="0">
   <tr>
     <td align="left">
       <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Github" style="max-width: 100%; display: inline-block; width: 500px; height: auto;" />
