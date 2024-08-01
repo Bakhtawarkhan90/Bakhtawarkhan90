@@ -13,18 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table width="80%" border="0">
-  <tr>
-    <td align="left">
-      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Github" style="max-width: 80%; display: inline-block; width: 400px; height: auto;" />
-    </td>
-    <td align="right">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Github" style="max-width: 80%; width: 400px; height: auto;" />
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" alt="Docker" style="width: auto; height: auto;" />
+  </a>
+</div>
 
    
 
