@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <table width="80%" border="0">
   <tr>
     <td align="left">
-      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Github" style="max-width: 100%; display: inline-block; width: 500px; height: auto;" />
+      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Github" style="max-width: 80%; display: inline-block; width: 400px; height: auto;" />
     </td>
     <td align="right">
       <a href="https://www.docker.com/" target="_blank">
