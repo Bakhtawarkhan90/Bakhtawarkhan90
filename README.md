@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Github" style="max-width: 100%; width: 500px; height: auto;" />
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" alt="Docker" style="width: auto; height: auto;" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" alt="Docker" style="width: 100px; height: auto;" />
   </a>
 </div>
 
