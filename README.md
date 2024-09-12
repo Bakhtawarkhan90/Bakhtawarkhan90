@@ -18,11 +18,13 @@ Here are some ideas to get you started:
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" alt="Docker" style="width: 200px; height: auto;" />
   </a>
+   <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="70" />
+  </a>
+   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"  height="70" />
+  </a> 
 </div>
-
-   
-
-
 
 <h1 align="center">Hi 👋, I'm BAKHTAWAR KHAN</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
