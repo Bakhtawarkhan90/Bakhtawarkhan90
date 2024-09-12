@@ -44,6 +44,15 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="80" />
   </a>
 </div>
+ ### Monitoring
+  
+ <p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
+  </a>
 
 <h1 align="center">Hi 👋, I'm BAKHTAWAR KHAN</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
