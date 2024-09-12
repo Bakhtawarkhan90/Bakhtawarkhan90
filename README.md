@@ -24,6 +24,12 @@ Here are some ideas to get you started:
    <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"  height="70" />
   </a> 
+   <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="80" />
+  </a>
+  <a href="https://helm.sh/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="80" />
+  </a> 
 </div>
 
 <h1 align="center">Hi 👋, I'm BAKHTAWAR KHAN</h1>
