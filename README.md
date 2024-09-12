@@ -30,6 +30,19 @@ Here are some ideas to get you started:
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="80" />
   </a> 
+   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="80" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+   </a>
+    <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="80" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="80" />
+  </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm BAKHTAWAR KHAN</h1>
